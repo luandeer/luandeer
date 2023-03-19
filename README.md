@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Telmo
 Skills: / HTML / CSS / JS / REACT / NEXT JS / NODE JS / WORDPRESS
-
-Other : / ADOBE ILLUSTRATOR / ADOBE ANIMATE / ADOBE PHOTOSHOP / ADOBE PREMIER PRO 
+Other: / ADOBE ILLUSTRATOR / ADOBE ANIMATE / ADOBE PHOTOSHOP / ADOBE PREMIER PRO 
 <!--
 **luandeer/luandeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
